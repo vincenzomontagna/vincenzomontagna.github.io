@@ -16,7 +16,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>YaleMUN</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/yalemun.css?crc=4157182342" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/yalemun.css?crc=79246886" id="pagesheet"/>
     <!--/*
 
 */
@@ -25,21 +25,21 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
  <body>
 
   <div class="clearfix" id="page"><!-- group -->
-   <div class="browser_width mse_pre_init" id="u2193-bw">
-    <div class="museBGSize" id="u2193"><!-- simple frame --></div>
-   </div>
-   <div class="clearfix grpelem" id="pu2194"><!-- column -->
-    <div class="clip_frame colelem" id="u2194"><!-- image -->
+   <div class="clearfix grpelem" id="pu2193"><!-- group -->
+    <div class="browser_width mse_pre_init" id="u2193-bw">
+     <div class="museBGSize" id="u2193"><!-- simple frame --></div>
+    </div>
+    <div class="clip_frame mse_pre_init" id="u2194"><!-- image -->
      <img class="block" id="u2194_img" src="images/signature%20white.png?crc=242366061" alt="" width="213" height="134"/>
     </div>
-    <div class="clearfix colelem" id="pu2196-4"><!-- group -->
-     <div class="clearfix grpelem" id="u2196-4"><!-- content -->
-      <p>YALEMUN</p>
-     </div>
-     <div class="pointer_cursor clearfix grpelem" id="u2282-5"><!-- content -->
-      <a class="block" href="https://www.instagram.com/delegacionyalemun/"><!-- Block link tag --></a>
-      <p><a class="nonblock" href="https://www.instagram.com/delegacionyalemun/"><span id="u2282">ADICIONAL: @DELEGACIONYALEMUN EN INSTAGRAM</span></a></p>
-     </div>
+   </div>
+   <div class="clearfix grpelem" id="pu2196-4"><!-- group -->
+    <div class="clearfix grpelem" id="u2196-4"><!-- content -->
+     <p>YALEMUN</p>
+    </div>
+    <div class="pointer_cursor clearfix grpelem" id="u2282-5"><!-- content -->
+     <a class="block" href="https://www.instagram.com/delegacionyalemun/"><!-- Block link tag --></a>
+     <p><a class="nonblock" href="https://www.instagram.com/delegacionyalemun/"><span id="u2282">ADICIONAL: @DELEGACIONYALEMUN EN INSTAGRAM</span></a></p>
     </div>
    </div>
    <div class="verticalspacer" data-offset-top="327" data-content-above-spacer="326" data-content-below-spacer="62"></div>
@@ -93,6 +93,7 @@ Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('#slideshowu2197', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu2197 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $('#u2193-bw').registerPositionScrollEffect([{"speed":[null,0],"in":[-Infinity,0]},{"speed":[null,0],"in":[0,Infinity]}]);/* scroll effect */
+$('#u2194').registerPositionScrollEffect([{"speed":[1,0],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};

@@ -16,7 +16,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Geofilters</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/geofilters.css?crc=4273638119" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/geofilters.css?crc=4007962618" id="pagesheet"/>
     <!--/*
 
 */
@@ -25,16 +25,16 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
  <body>
 
   <div class="clearfix" id="page"><!-- group -->
-   <div class="browser_width mse_pre_init" id="u2980-bw">
-    <div class="museBGSize" id="u2980"><!-- simple frame --></div>
-   </div>
-   <div class="clearfix grpelem" id="pu2981"><!-- column -->
-    <div class="clip_frame colelem" id="u2981"><!-- image -->
+   <div class="clearfix grpelem" id="pu2980"><!-- group -->
+    <div class="browser_width mse_pre_init" id="u2980-bw">
+     <div class="museBGSize" id="u2980"><!-- simple frame --></div>
+    </div>
+    <div class="clip_frame mse_pre_init" id="u2981"><!-- image -->
      <img class="block" id="u2981_img" src="images/signature%20white.png?crc=242366061" alt="" width="213" height="134"/>
     </div>
-    <div class="clearfix colelem" id="u2983-4"><!-- content -->
-     <p>GEOFILTERS</p>
-    </div>
+   </div>
+   <div class="clearfix grpelem" id="u2983-4"><!-- content -->
+    <p>GEOFILTERS</p>
    </div>
    <div class="verticalspacer" data-offset-top="285" data-content-above-spacer="285" data-content-below-spacer="352"></div>
    <div class="SlideShowWidget clearfix grpelem" id="slideshowu2984"><!-- none box -->
@@ -90,6 +90,7 @@ Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('#slideshowu2984', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu2984 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $('#u2980-bw').registerPositionScrollEffect([{"speed":[null,0],"in":[-Infinity,0]},{"speed":[null,0],"in":[0,Infinity]}]);/* scroll effect */
+$('#u2981').registerPositionScrollEffect([{"speed":[1,0],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};

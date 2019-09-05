@@ -16,7 +16,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Yale</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/yale.css?crc=4249009909" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/yale.css?crc=3860522622" id="pagesheet"/>
     <!--/*
 
 */
@@ -25,21 +25,21 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
  <body>
 
   <div class="clearfix" id="page"><!-- group -->
-   <div class="browser_width mse_pre_init" id="u1025-bw">
-    <div class="museBGSize" id="u1025"><!-- simple frame --></div>
-   </div>
-   <div class="clearfix grpelem" id="pu1026"><!-- column -->
-    <div class="clip_frame colelem" id="u1026"><!-- image -->
+   <div class="clearfix grpelem" id="pu1025"><!-- group -->
+    <div class="browser_width mse_pre_init" id="u1025-bw">
+     <div class="museBGSize" id="u1025"><!-- simple frame --></div>
+    </div>
+    <div class="clip_frame mse_pre_init" id="u1026"><!-- image -->
      <img class="block" id="u1026_img" src="images/signature%20white.png?crc=242366061" alt="" width="213" height="134"/>
     </div>
-    <div class="clearfix colelem" id="pu1028-4"><!-- group -->
-     <div class="clearfix grpelem" id="u1028-4"><!-- content -->
-      <p>COLEGIO YALE</p>
-     </div>
-     <div class="pointer_cursor clearfix grpelem" id="u1074-5"><!-- content -->
-      <a class="block" href="http://colegioyale.edu.ve/ns"><!-- Block link tag --></a>
-      <p><a class="nonblock" href="http://colegioyale.edu.ve/ns"><span id="u1074">ADICIONAL: COLEGIOYALE.EDU.VE/NS</span></a></p>
-     </div>
+   </div>
+   <div class="clearfix grpelem" id="pu1028-4"><!-- group -->
+    <div class="clearfix grpelem" id="u1028-4"><!-- content -->
+     <p>COLEGIO YALE</p>
+    </div>
+    <div class="pointer_cursor clearfix grpelem" id="u1074-5"><!-- content -->
+     <a class="block" href="http://colegioyale.edu.ve/ns"><!-- Block link tag --></a>
+     <p><a class="nonblock" href="http://colegioyale.edu.ve/ns"><span id="u1074">ADICIONAL: COLEGIOYALE.EDU.VE/NS</span></a></p>
     </div>
    </div>
    <div class="verticalspacer" data-offset-top="308" data-content-above-spacer="307" data-content-below-spacer="62"></div>
@@ -84,6 +84,7 @@ Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('#slideshowu1029', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu1029 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $('#u1025-bw').registerPositionScrollEffect([{"speed":[null,0],"in":[-Infinity,0]},{"speed":[null,0],"in":[0,Infinity]}]);/* scroll effect */
+$('#u1026').registerPositionScrollEffect([{"speed":[1,0],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};

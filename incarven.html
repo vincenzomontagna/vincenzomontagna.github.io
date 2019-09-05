@@ -16,20 +16,20 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>INCARVEN</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/incarven.css?crc=356022131" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/incarven.css?crc=236753658" id="pagesheet"/>
    </head>
  <body>
 
   <div class="clearfix" id="page"><!-- group -->
-   <div class="browser_width mse_pre_init" id="u821-bw">
-    <div class="museBGSize" id="u821"><!-- simple frame --></div>
-   </div>
-   <div class="clearfix grpelem" id="pu822"><!-- column -->
-    <div class="clip_frame colelem" id="u822"><!-- image -->
+   <div class="clearfix grpelem" id="pu821"><!-- group -->
+    <div class="browser_width mse_pre_init" id="u821-bw">
+     <div class="museBGSize" id="u821"><!-- simple frame --></div>
+    </div>
+    <div class="clip_frame mse_pre_init" id="u822"><!-- image -->
      <img class="block" id="u822_img" src="images/signature%20white.png?crc=242366061" alt="" width="213" height="134"/>
     </div>
-    <img class="colelem" id="u824-4" alt="INCARVEN" width="913" height="128" src="images/u824-4.png?crc=134005662"/><!-- rasterized frame -->
    </div>
+   <img class="grpelem" id="u824-4" alt="INCARVEN" width="913" height="128" src="images/u824-4.png?crc=134005662"/><!-- rasterized frame -->
    <div class="verticalspacer" data-offset-top="285" data-content-above-spacer="285" data-content-below-spacer="62"></div>
    <div class="SlideShowWidget clearfix grpelem" id="slideshowu825"><!-- none box -->
     <div class="popup_anchor" id="u854popup">
@@ -75,6 +75,7 @@ Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('#slideshowu825', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu825 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $('#u821-bw').registerPositionScrollEffect([{"speed":[null,0],"in":[-Infinity,0]},{"speed":[null,0],"in":[0,Infinity]}]);/* scroll effect */
+$('#u822').registerPositionScrollEffect([{"speed":[1,0],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
