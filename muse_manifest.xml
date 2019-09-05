@@ -1,0 +1,236 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vincemontagna2.github.io" resolutions="1x" timestamp="1567697567946">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="geofilters.css" crc="4136267153" ref="geofilters"/>
+    <file name="yalemun.css" crc="316445944" ref="yalemun"/>
+    <file name="1host3.css" crc="4009671366" ref="1host3"/>
+    <file name="promo-xxiii.css" crc="469800878" ref="promo-xxiii"/>
+    <file name="gaitas-yale.css" crc="4137512188" ref="gaitas-yale"/>
+    <file name="incarven.css" crc="195818419" ref="incarven"/>
+    <file name="pronti-pastas.css" crc="322998076" ref="pronti-pastas"/>
+    <file name="imagine.css" crc="4158596295" ref="imagine"/>
+    <file name="home-cooking-gourmet.css" crc="340783378" ref="home-cooking-gourmet"/>
+    <file name="yale.css" crc="157798028" ref="yale"/>
+    <file name="index.css" crc="353503961" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="walkway_oblique_black-webfont.woff" crc="174242005"/>
+    <file name="walkway_oblique_black-webfont.eot" crc="256146417"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:gaitas-yale:incarven:yale:pronti-pastas:home-cooking-gourmet:imagine:1host3:yalemun:promo-xxiii:geofilters"/>
+    <file name="museutils.js" crc="340535759" ref="index:gaitas-yale:incarven:yale:pronti-pastas:home-cooking-gourmet:imagine:1host3:yalemun:promo-xxiii:geofilters"/>
+    <file name="whatinput.js" crc="86476730" ref="index:gaitas-yale:incarven:yale:pronti-pastas:home-cooking-gourmet:imagine:1host3:yalemun:promo-xxiii:geofilters"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:gaitas-yale:incarven:yale:pronti-pastas:home-cooking-gourmet:imagine:1host3:yalemun:promo-xxiii:geofilters"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:gaitas-yale:incarven:yale:pronti-pastas:home-cooking-gourmet:imagine:yalemun:promo-xxiii:geofilters"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:gaitas-yale:incarven:yale:pronti-pastas:home-cooking-gourmet:imagine:1host3:yalemun:promo-xxiii:geofilters"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:gaitas-yale:incarven:yale:pronti-pastas:home-cooking-gourmet:imagine:yalemun:promo-xxiii:geofilters"/>
+    <file name="require.js" crc="7928878" ref="index:gaitas-yale:incarven:yale:pronti-pastas:home-cooking-gourmet:imagine:1host3:yalemun:promo-xxiii:geofilters"/>
+    <file name="webpro.js" crc="4059564322" ref="gaitas-yale:incarven:yale:pronti-pastas:home-cooking-gourmet:imagine:yalemun:promo-xxiii:geofilters"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="gaitas-yale:incarven:yale:pronti-pastas:home-cooking-gourmet:imagine:yalemun:promo-xxiii:geofilters"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="gaitas-yale:incarven:yale:pronti-pastas:home-cooking-gourmet:imagine:yalemun:promo-xxiii:geofilters"/>
+    <file name="touchswipe.js" crc="4075097462" ref="gaitas-yale:incarven:yale:pronti-pastas:home-cooking-gourmet:imagine:yalemun:promo-xxiii:geofilters"/>
+  </folder>
+  <folder name="images">
+    <file name="greatness awaits.jpg" crc="3869387723" ref="index:gaitas-yale:incarven:yale:pronti-pastas:home-cooking-gourmet:imagine:yalemun:promo-xxiii:geofilters">
+      <caption webpage="yale" alt=""/>
+      <caption webpage="pronti-pastas" alt=""/>
+      <caption webpage="yalemun" alt=""/>
+      <caption webpage="promo-xxiii" alt=""/>
+      <caption webpage="geofilters" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-cooking-gourmet" alt=""/>
+      <caption webpage="imagine" alt=""/>
+      <caption webpage="gaitas-yale" alt=""/>
+      <caption webpage="incarven" alt=""/>
+    </file>
+    <file name="logo gaitas-u138-fr.png" crc="12655284" ref="index"/>
+    <file name="u255-4.png" crc="4254346756" ref="index"/>
+    <file name="u281-4.png" crc="3917474526" ref="index"/>
+    <file name="insta 1-u296-fr.png" crc="447650557" ref="index"/>
+    <file name="u299-4.png" crc="3932634436" ref="index"/>
+    <file name="u300-4.png" crc="4199424411" ref="index"/>
+    <file name="promo xxiii copy 2-u347-fr.png" crc="4194437207" ref="index"/>
+    <file name="u350-4.png" crc="39308513" ref="index"/>
+    <file name="u351-4.png" crc="35058585" ref="index"/>
+    <file name="incarven logo.jpg" crc="297070579" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u284-4.png" crc="4064046055" ref="index"/>
+    <file name="u285-4.png" crc="4199424411" ref="index"/>
+    <file name="artboard 2-u297-fr.png" crc="496709391" ref="index"/>
+    <file name="u301-4.png" crc="485364305" ref="index"/>
+    <file name="u302-4.png" crc="306424899" ref="index"/>
+    <file name="images.jpg" crc="333344941" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u352-4.png" crc="525609859" ref="index"/>
+    <file name="u353-4.png" crc="399202089" ref="index"/>
+    <file name="signature white.png" crc="242366061" seo="true" ref="index:gaitas-yale:incarven:yale:pronti-pastas:home-cooking-gourmet:imagine:yalemun:promo-xxiii:geofilters">
+      <caption webpage="yale" alt=""/>
+      <caption webpage="pronti-pastas" alt=""/>
+      <caption webpage="yalemun" alt=""/>
+      <caption webpage="promo-xxiii" alt=""/>
+      <caption webpage="geofilters" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-cooking-gourmet" alt=""/>
+      <caption webpage="imagine" alt=""/>
+      <caption webpage="gaitas-yale" alt=""/>
+      <caption webpage="incarven" alt=""/>
+    </file>
+    <file name="logo colegio yale.png" crc="4184684214" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u290-4.png" crc="45546954" ref="index"/>
+    <file name="u291-4.png" crc="123592654" ref="index"/>
+    <file name="home cooking gourmet (blanco)-u298-fr.jpg" crc="3782148756" ref="index"/>
+    <file name="u303-4.png" crc="4052157101" ref="index"/>
+    <file name="u304-4.png" crc="4199424411" ref="index"/>
+    <file name="logoyalemun-u349-fr.png" crc="490242821" ref="index"/>
+    <file name="u354-4.png" crc="3997138428" ref="index"/>
+    <file name="u355-4.png" crc="123592654" ref="index"/>
+    <file name="logo gaitas-crop-u555.png" crc="51202578" seo="true" ref="gaitas-yale">
+      <caption webpage="gaitas-yale" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="gaitas-yale:incarven:yale:pronti-pastas:home-cooking-gourmet:imagine:yalemun:promo-xxiii:geofilters"/>
+    <file name="gaitas yale - flyer-crop-u653.jpg" crc="3885465003" seo="true" ref="gaitas-yale">
+      <caption webpage="gaitas-yale" alt=""/>
+    </file>
+    <file name="campitos.jpg" crc="4170212103" seo="true" ref="gaitas-yale">
+      <caption webpage="gaitas-yale" alt=""/>
+    </file>
+    <file name="santiago.jpg" crc="4185689398" seo="true" ref="gaitas-yale">
+      <caption webpage="gaitas-yale" alt=""/>
+    </file>
+    <file name="artboard 10.jpg" crc="4113573243" seo="true" ref="gaitas-yale">
+      <caption webpage="gaitas-yale" alt=""/>
+    </file>
+    <file name="artboard 102.jpg" crc="161567867" seo="true" ref="gaitas-yale">
+      <caption webpage="gaitas-yale" alt=""/>
+    </file>
+    <file name="artboard 9.png" crc="525466869" seo="true" ref="gaitas-yale">
+      <caption webpage="gaitas-yale" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="gaitas-yale:incarven:yale:pronti-pastas:home-cooking-gourmet:imagine:yalemun:promo-xxiii:geofilters"/>
+    <file name="u824-4.png" crc="134005662" ref="incarven"/>
+    <file name="distribuidora incarven.jpg" crc="511207280" seo="true" ref="incarven">
+      <caption webpage="incarven" alt=""/>
+    </file>
+    <file name="incarven logo-crop-u1005.png" crc="213746127" seo="true" ref="incarven">
+      <caption webpage="incarven" alt=""/>
+    </file>
+    <file name="fachada 1.jpg" crc="4041182473" seo="true" ref="yale">
+      <caption webpage="yale" alt=""/>
+    </file>
+    <file name="insta 1-crop-u1522.png" crc="324821069" seo="true" ref="pronti-pastas">
+      <caption webpage="pronti-pastas" alt=""/>
+    </file>
+    <file name="pendon 1-crop-u1606.jpg" crc="3821512088" seo="true" ref="pronti-pastas">
+      <caption webpage="pronti-pastas" alt=""/>
+    </file>
+    <file name="pendon 2-crop-u1626.jpg" crc="3885777904" seo="true" ref="pronti-pastas">
+      <caption webpage="pronti-pastas" alt=""/>
+    </file>
+    <file name="valla 285cm x 80cm-crop-u1646.png" crc="4275576565" seo="true" ref="pronti-pastas">
+      <caption webpage="pronti-pastas" alt=""/>
+    </file>
+    <file name="home cooking gourmet (blanco)-crop-u1676.jpg" crc="387273510" seo="true" ref="home-cooking-gourmet">
+      <caption webpage="home-cooking-gourmet" alt=""/>
+    </file>
+    <file name="artboard 4-crop-u1749.png" crc="170548155" seo="true" ref="imagine">
+      <caption webpage="imagine" alt=""/>
+    </file>
+    <file name="artboard 16-crop-u1913.jpg" crc="180247958" seo="true" ref="imagine">
+      <caption webpage="imagine" alt=""/>
+    </file>
+    <file name="artboard 2-crop-u1933.png" crc="431866699" seo="true" ref="imagine">
+      <caption webpage="imagine" alt=""/>
+    </file>
+    <file name="artboard 5-crop-u1953.jpg" crc="472941722" seo="true" ref="imagine">
+      <caption webpage="imagine" alt=""/>
+    </file>
+    <file name="artboard 6-crop-u1973.jpg" crc="140614919" seo="true" ref="imagine">
+      <caption webpage="imagine" alt=""/>
+    </file>
+    <file name="artboard 7-crop-u1993.jpg" crc="105342941" seo="true" ref="imagine">
+      <caption webpage="imagine" alt=""/>
+    </file>
+    <file name="artboard 8-crop-u2013.jpg" crc="307215510" seo="true" ref="imagine">
+      <caption webpage="imagine" alt=""/>
+    </file>
+    <file name="artboard 9-crop-u2033.jpg" crc="4116555749" seo="true" ref="imagine">
+      <caption webpage="imagine" alt=""/>
+    </file>
+    <file name="artboard 10-crop-u2053.jpg" crc="105207618" seo="true" ref="imagine">
+      <caption webpage="imagine" alt=""/>
+    </file>
+    <file name="artboard 11-crop-u2073.jpg" crc="527126915" seo="true" ref="imagine">
+      <caption webpage="imagine" alt=""/>
+    </file>
+    <file name="artboard 12-crop-u2093.jpg" crc="233691784" seo="true" ref="imagine">
+      <caption webpage="imagine" alt=""/>
+    </file>
+    <file name="artboard 13-crop-u2113.jpg" crc="3807845759" seo="true" ref="imagine">
+      <caption webpage="imagine" alt=""/>
+    </file>
+    <file name="artboard 19-crop-u2133.jpg" crc="347502531" seo="true" ref="imagine">
+      <caption webpage="imagine" alt=""/>
+    </file>
+    <file name="artboard 20-crop-u2153.jpg" crc="3873314374" seo="true" ref="imagine">
+      <caption webpage="imagine" alt=""/>
+    </file>
+    <file name="artboard 21-crop-u2173.jpg" crc="89449167" seo="true" ref="imagine">
+      <caption webpage="imagine" alt=""/>
+    </file>
+    <file name="logoyalemun-crop-u2261.png" crc="524472958" seo="true" ref="yalemun">
+      <caption webpage="yalemun" alt=""/>
+    </file>
+    <file name="ruedadeprensa.jpg" crc="3978846759" seo="true" ref="yalemun">
+      <caption webpage="yalemun" alt=""/>
+    </file>
+    <file name="welcome back sammer.jpg" crc="4059444596" seo="true" ref="yalemun">
+      <caption webpage="yalemun" alt=""/>
+    </file>
+    <file name="donald.jpg" crc="3775128643" seo="true" ref="yalemun">
+      <caption webpage="yalemun" alt=""/>
+    </file>
+    <file name="5to vs 4to colegio-crop-u2656.png" crc="4266901086" seo="true" ref="promo-xxiii">
+      <caption webpage="promo-xxiii" alt=""/>
+    </file>
+    <file name="5to vs 4to-crop-u2920.jpg" crc="4099450507" seo="true" ref="promo-xxiii">
+      <caption webpage="promo-xxiii" alt=""/>
+    </file>
+    <file name="promo xxiii copy 2-crop-u2940.png" crc="399803628" seo="true" ref="promo-xxiii">
+      <caption webpage="promo-xxiii" alt=""/>
+    </file>
+    <file name="san valentin promo xxiii-crop-u2960.jpg" crc="438146839" seo="true" ref="promo-xxiii">
+      <caption webpage="promo-xxiii" alt=""/>
+    </file>
+    <file name="2019-09-05 052933 pm.jpg" crc="4283048658" seo="true" ref="geofilters">
+      <caption webpage="geofilters" alt=""/>
+    </file>
+    <file name="2019-09-05 052947 pm.jpg" crc="137006301" seo="true" ref="geofilters">
+      <caption webpage="geofilters" alt=""/>
+    </file>
+    <file name="2019-09-05 052958 pm.jpg" crc="4130576957" seo="true" ref="geofilters">
+      <caption webpage="geofilters" alt=""/>
+    </file>
+    <file name="2019-09-05 053019 pm.jpg" crc="127346476" seo="true" ref="geofilters">
+      <caption webpage="geofilters" alt=""/>
+    </file>
+    <file name="2019-09-05 052917 pm.jpg" crc="469366067" seo="true" ref="geofilters">
+      <caption webpage="geofilters" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3935623050" seo="true" mt="1567697548184" redirect="true"/>
+  <file name="gaitas-yale.html" crc="3823341117" seo="true" mt="1567696372572" redirect="true"/>
+  <file name="incarven.html" crc="4030077700" seo="true" mt="1567696354519" redirect="true"/>
+  <file name="yale.html" crc="77665119" seo="true" mt="1567696429034" redirect="true"/>
+  <file name="pronti-pastas.html" crc="3799702907" seo="true" mt="1567696548838" redirect="true"/>
+  <file name="home-cooking-gourmet.html" crc="349752649" seo="true" mt="1567696642427" redirect="true"/>
+  <file name="imagine.html" crc="245191141" seo="true" mt="1567696833880" redirect="true"/>
+  <file name="1host3.html" crc="476743431" seo="true" mt="1567693989367" redirect="false"/>
+  <file name="yalemun.html" crc="4093016165" seo="true" mt="1567696966169" redirect="true"/>
+  <file name="promo-xxiii.html" crc="3759027164" seo="true" mt="1567697134454" redirect="true"/>
+  <file name="geofilters.html" crc="3983888626" seo="true" mt="1567697495789" redirect="true"/>
+</manifest>
